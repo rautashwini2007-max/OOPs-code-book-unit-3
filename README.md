@@ -23,33 +23,48 @@ Name - Ashwini Bibhishan Raut zprn - 125UAD1375 Class/Division- SY 'A' Course na
 ## Brief Description 
 Program 1 – Function Overloading
 Demonstrates compile-time polymorphism by defining multiple "add()" functions with different parameter lists.
+
 Program 2 – Area Calculator
 Calculates the area of a square, rectangle, and circle using function overloading with different parameters.
+
 Program 3 – Unary Minus Operator Overloading
 Demonstrates unary operator overloading by redefining the "-" operator for a user-defined "Number" class.
+
 Program 4 – Prefix and Postfix Increment
 Demonstrates overloading of prefix "++" and postfix "++" operators and shows the difference between them.
+
 Program 5 – Complex Number Addition
 Demonstrates binary "+" operator overloading to add two complex number objects.
+
 Program 6 – Relational Operator Overloading
 Overloads the ">" operator to compare two "Distance" objects.
+
 Program 7 – Friend/Non-Member Operator Overloading
 Demonstrates operator overloading using a friend function to add an integer with a complex number.
+
 Program 8 – Base Pointer Without Virtual Function
 Demonstrates static binding using a base-class pointer when the function is not declared "virtual".
+
 Program 9 – Base Pointer With Virtual Function
 Demonstrates run-time polymorphism using a virtual function and a base-class pointer.
+
 Program 10 – Base Reference With Virtual Function
 Demonstrates dynamic binding by passing derived objects through a base-class reference.
+
 Program 11 – Abstract Class
 Demonstrates an abstract class using a pure virtual "area()" function and a derived "Rectangle" class.
+
 Program 12 – Polymorphic Shape Collection
 Demonstrates polymorphic processing of different shapes using an abstract base class and "unique_ptr".
+
 Program 13 – Virtual Destructor
 Demonstrates the use of a virtual destructor to safely destroy a derived object through a base-class pointer.
+
 Program 14 – Object Slicing
 Demonstrates object slicing when a derived object is passed by value and shows how passing by reference preserves polymorphism.
+
 Program 15 – Payment Processing System
 Demonstrates a real-world application of run-time polymorphism using different payment methods such as Card, UPI, and Net Banking.
+
 Program 16 – Employee Payroll Mini-Project
 Demonstrates run-time polymorphism in a payroll system using an abstract "Employee" class and different employee types.
